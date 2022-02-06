@@ -156,7 +156,11 @@ body {
   font-weight: bold;
 }
 .my-progects-item {
+  margin-bottom: 10px;
   color: #000000;
+}
+.my-progects-experience {
+  width: 450px;
 }
 .my-progects-link {
   font-style: normal;
@@ -172,6 +176,9 @@ body {
   line-height: 24px;
   color: #595959;
   margin-left: 5px;
+}
+.my-progects-about {
+  margin: 0;
 }
 .my-progects-bracket {
   font-style: normal;
